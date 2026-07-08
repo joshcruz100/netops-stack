@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meraki Incident Triage"
+  short_description: "Investigate a focused Meraki incident"
+  default_prompt: "Use $meraki-incident-triage to investigate this Meraki device or network incident."

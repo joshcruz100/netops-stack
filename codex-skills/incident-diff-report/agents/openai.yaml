@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incident Diff Report"
+  short_description: "Report meaningful changes between snapshots"
+  default_prompt: "Use $incident-diff-report to compare these monitoring snapshots and report meaningful changes."

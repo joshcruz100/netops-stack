@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monitoring Target Manager"
+  short_description: "Manage explicit monitoring target allowlists"
+  default_prompt: "Use $monitoring-target-manager to validate and organize these approved monitoring targets."

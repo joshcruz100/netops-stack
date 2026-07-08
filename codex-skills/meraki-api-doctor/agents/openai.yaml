@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meraki API Doctor"
+  short_description: "Diagnose Meraki MCP and API failures"
+  default_prompt: "Use $meraki-api-doctor to diagnose this Meraki MCP or API failure safely."

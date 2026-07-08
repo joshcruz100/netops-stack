@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Health Triage"
+  short_description: "Read-only Docker health diagnostics"
+  default_prompt: "Use $docker-health-triage to inspect Docker health and identify what needs attention."

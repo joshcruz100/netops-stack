@@ -1,0 +1,4 @@
+interface:
+  display_name: "Container Exposure Audit"
+  short_description: "Audit container privilege and exposure risks"
+  default_prompt: "Use $container-exposure-audit to perform a read-only review of container exposure and privileges."

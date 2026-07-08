@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Config Doctor"
+  short_description: "Diagnose MCP configuration and startup issues"
+  default_prompt: "Use $mcp-config-doctor to diagnose this MCP server configuration or startup problem."
