@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Healthcheck Builder"
+  short_description: "Design reliable Compose healthchecks"
+  default_prompt: "Use $compose-healthcheck-builder to design and validate healthchecks for this Compose project."

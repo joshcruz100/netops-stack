@@ -1,0 +1,4 @@
+interface:
+  display_name: "Globalping Service Check"
+  short_description: "Verify approved services from global probes"
+  default_prompt: "Use $globalping-service-check to test this approved service from representative global probes."

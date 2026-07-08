@@ -1,0 +1,4 @@
+interface:
+  display_name: "Infrastructure Health Check"
+  short_description: "Run a unified read-only health review"
+  default_prompt: "Use $infrastructure-health-check to run a concise read-only infrastructure health review."

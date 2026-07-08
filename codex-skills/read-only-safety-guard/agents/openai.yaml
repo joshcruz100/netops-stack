@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read-Only Safety Guard"
+  short_description: "Classify and block unintended mutations"
+  default_prompt: "Use $read-only-safety-guard to review this workflow for unintended write or change operations."

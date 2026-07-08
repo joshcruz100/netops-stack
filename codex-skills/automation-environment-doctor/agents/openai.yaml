@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automation Environment Doctor"
+  short_description: "Diagnose scheduled-task environment failures"
+  default_prompt: "Use $automation-environment-doctor to diagnose why this automation differs from an interactive run."

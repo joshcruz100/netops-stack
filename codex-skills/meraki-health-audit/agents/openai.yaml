@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meraki Health Audit"
+  short_description: "Audit Meraki health without changes"
+  default_prompt: "Use $meraki-health-audit to run a comprehensive read-only Meraki health review."

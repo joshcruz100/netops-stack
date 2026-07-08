@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monitoring Data Quality"
+  short_description: "Assess completeness and freshness of telemetry"
+  default_prompt: "Use $monitoring-data-quality to determine whether this monitoring evidence is safe to use."
